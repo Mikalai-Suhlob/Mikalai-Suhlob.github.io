@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Matching Game</title>
+    <meta name="description" content="">
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Coda">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="css/app.css"> </head>
+
+<body><header>
+           
+	<div class="container ">
+		<div class="start-deck" id="start-deck">
+			<div class="item"><h1>COVER:</h1> </div><div class="item">
+			<form id="cover" action="">
+				<input cover name="cover" value="1" type="radio" class="cover">
+				<input cover name="cover" value="2" type="radio" class="cover">
+				<input cover name="cover" value="3" type="radio" class="cover">
+			
+			</div>
+		<br>
+			<div class="item"><h1>DIFFICULTY:</h1> </div><div class="item">
+			
+				<div  class="star"><input diff value="1" name="diff"  type="radio" class="cover "></div>
+				<div  class="star"><input diff value="2" name="diff" type="radio" class="cover "></div>
+				<div  class="star"><input diff value="3" name="diff" type="radio" class="cover"></div>
+			</form>	
+			</div>
+			<div>
+			<h2 >How to play:<br></h2>
+			<p class="rules">
+			
+				1. Choose 2 cards<br>
+				2. If cards are the same, they will dissapear<br>
+				3. If they are different, then turn over<br>
+				4. Find all<br>
+				5. Enjoy)<br>
+			</p></div>
+		</div>
+	</div>	
+    <div class="container" id="game-deck">
+        <header>
+            <h1>Matching game</h1> </header>
+			
+			
+			
+        <section class="score-panel">
+            <ul class="stars" id="stars"> </ul> <span  id="moves"></span>
+            <div class="text-right">
+                
+                <span class="timer" id="timer"></span>
+                <div class="restart" id="restartButton">
+                    <i class="fa fa-repeat" id="reset-button"></i> 
+                </div>
+            </div>
+        </section>
+       
+		<div class="deck"  id="cardboard"></div>
+		
+    </div>
+    <!-- Result-->
+    <div class="container result" id="sucess-result"></div>
+   <script src="js/game.js"></script>
+
+</body>
+
+</html>
