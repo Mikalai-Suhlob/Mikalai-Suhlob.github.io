@@ -1,0 +1,174 @@
+@font-face {
+    font-family: "PixelFont";
+    src: url("../fonts/slkscr.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    font-size: 20px;
+}
+
+body {
+    color: #fff;
+    background: #000;
+    font-family: PixelFont;
+    text-transform: uppercase;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    cursor: default;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    color: #B46147;
+}
+
+.screen {
+    overflow-y: auto;
+    z-index: 100;
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 5em 16px 0;
+    background: #000;
+    text-align: center;
+}
+
+.screen__heading {
+    font-size: 3em;
+    margin-bottom: .5em;
+    background: url('../images/Brick.png');
+    background-size: 2rem;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.screen:target {
+    display: block;
+}
+
+.main-page-container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-page-container:before {
+    display: inline-block;
+    width: 0;
+    height: 100%;
+    vertical-align: middle;
+    content: "";
+}
+
+.main-page-container__inner {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-page-heading {
+    margin-bottom: .5em;
+    font-size: 5em;
+    background: url('../images/Brick.png');
+    background-size: 2rem;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.main-nav {
+    display: inline-block;
+    text-align: left;
+    padding: 0 30px;
+}
+
+.main-nav a {
+    position: relative;
+    display: block;
+    font-size: 1.5rem;
+    padding: 5px 12px;
+    text-decoration: none;
+}
+
+.main-nav a:focus {
+    outline: none;
+}
+
+.main-nav a:focus:before {
+    position: absolute;
+    right: 100%;
+    content: "\003E";
+}
+
+.gallery {
+    display: block;
+    max-width: 1100px;
+    margin: 0 auto 1em;
+    overflow: hidden;
+    list-style: none;
+}
+.gallery__item {
+    float: left;
+    width: 33.33333%;
+    padding: 16px;
+}
+.gallery__pic {
+    box-shadow: inset 0 0 0 5px #fff;
+    display: block;
+    position: relative;
+    padding-top: 56.25%;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.back-link {
+    position: relative;
+    display: inline-block;
+    padding-left: .8em;
+    font-size: 1.4em;
+}
+.back-link:before {
+    position: absolute;
+    left: 0;
+    content: "\003C";
+}
+
+@media(max-width: 980px) {
+    html {
+        font-size: 16px;
+    }
+    .main-page-heading {
+        font-size: 3em;
+    }
+    .screen__heading {
+        font-size: 2em;
+    }
+    .gallery__item {
+        width: 50%;
+    }
+}
+
+@media(max-width: 640px) {
+    .gallery__item {
+        width: 100%;
+    }
+}
