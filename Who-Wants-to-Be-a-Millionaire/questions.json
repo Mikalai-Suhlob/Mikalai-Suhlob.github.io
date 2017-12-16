@@ -3,144 +3,144 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "question" : "статистика это...\t?",
 		            "content" : [
-		                "Tag",
-		                "Simon Says",
-		                "Charades",
-		                "Hopscotch"
+		                "наука",
+		                "определение",
+		                "измерение",
+		                "понятие"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "On a radio, stations are changed by using what control?",
+		            "question" : "статистическое наблюдение это...\t?",
 		            "content" : [
-		                "Tuning",
-		                "Volume",
-		                "Bass",
-		                "Treble"
+		                "анализ",
+		                "контроль",
+		                "этап исследования",
+		                "оперативный учет"
 		            ],
-		            "correct" : 0
+		            "correct" : 2
 		        },
 		        {
-		            "question" : "Which material is most dense?",
+		            "question" : "Месячный уровень инфляции — 1% за месяц. При сохранившейся тенденции годовой уровень составит … % годовых\t?",
 		            "content" : [
-		                "Silver",
-		                "Styrofoam",
-		                "Butter",
-		                "Gold"
+		                "менее 1",
+		                "более 12",
+		                "12",
+		                "1"
 		            ],
-		            "correct" : 3
+		            "correct" : 1
 		        },
 		        {
-		            "question" : "Which state in the United States is largest by area?",
+		            "question" : "Термин «статистика» происходит от слова:\t",
 		            "content" : [
-		                "Alaska",
-		                "California",
-		                "Texas",
-		                "Hawaii"
+		                "статика",
+		                "статный",
+		                "статус",
+		                "стоимость"
 		            ],
-		            "correct" : 0
+		            "correct" : 2
 		        },
 		        {
-		            "question" : "What is Aurora Borealis commonly known as?",
+		            "question" : "Статистика как наука изучает:\t",
 		            "content" : [
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "единичные явления",
+		                "массовые явления",
+		                "периодические события ",
+		                "сбор данных"
 		            ],
 		            "correct" : 1
 		        },
 				{
-				    "correct": 3,
+				    "correct": 2,
 				    "content": [
-				        "developed the telescope",
-				        "discovered four satellites of Jupiter",
-				        "discovered that the movement of pendulum produces a regular time measurement",
-				        "All of the above"
+				        "анкета",
+				        "непосредственное",
+				        "сплошное",
+				        "текущее"
 				    ],
-				    "question": "Galileo was an Italian astronomer who"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "the infrared light kills bacteria in the body",
-				        "resistance power increases",
-				        "the pigment cells in the skin get stimulated and produce a healthy tan",
-				        "the ultraviolet rays convert skin oil into Vitamin D"
-				    ],
-				    "question": "Exposure to sunlight helps a person improve his health because"
+				    "question": "Назовите виды статистического наблюдения по степени охвата единиц совокупности:\t"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "a club or a local sport association for remarkable achievements",
-				        "amateur athlete, not necessarily an Olympian",
-				        "National Olympic Committee for outstanding work",
-				        "None of the above"
+				        "систематизация и подсчет итогов зарегистрированных фактов и данных",
+				        "форма представления и развития изучаемых явлений",
+				        "анализ и прогноз зарегистрированных данных",
+				        "способ получения информации"
 				    ],
-				    "question": "Sir Thomas Fearnley Cup is awarded to"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "1968",
-				        "1929",
-				        "1901",
-				        "1965"
-				    ],
-				    "question": "Oscar Awards were instituted in"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1998",
-				        "1989",
-				        "1979",
-				        "1800"
-				    ],
-				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "15th April",
-				        "12th December",
-				        "1st May",
-				        "1st August"
-				    ],
-				    "question": "When is the International Workers' Day?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1962",
-				        "1963",
-				        "1964",
-				        "1965"
-				    ],
-				    "question": "When did China test their first atomic device?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "1904",
-				        "1905",
-				        "1908",
-				        "1909"
-				    ],
-				    "question": "When did Commander Robert Peary discover the North Pole?"
+				    "question": "Статистическая сводка - это:\t"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "819/sq. km",
-				        "602/sq. km",
-				        "415/sq. km",
-				        "500/sq. km"
+				        "простые и комбинационные",
+				        "линейные",
+				        "нелинейные",
+				        "производственные"
 				    ],
-				    "question": "What is the population density of Kerala?"
+				    "question": "Какие виды статистических таблиц встречаются:\t"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "размер изучаемого явления в натуральных единицах измерения",
+				        "количественная характеристика свойств в единстве с их качественной определенностью",
+				        "результат измерения свойств изучаемого объекта",
+				        "регистрация данных"
+				    ],
+				    "question": "Статистический показатель - это...\t"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "а, д",
+				        "б, в",
+				        "в, г",
+				        "а, б"
+				    ],
+				    "question": "По способу выражения абсолютные статистические показатели подразделяются на: а) суммарные; б) индивидуальные; в) относительные; г) средние; д) структурные"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "в коэффициентах",
+				        "в натуральных",
+				        "в трудовых",
+				        "в стоимостных"
+				    ],
+				    "question": "В каких единицах выражаются абсолютные статистические показатели\t?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "а, б, г",
+				        "б, в, г",
+				        "в, г, а",
+				        "а, б, в"
+				    ],
+				    "question": "Относительные показатели по своему познавательному значению подразделяются на показатели: а) выполнения и сравнения, б) структуры и динамики, в) интенсивности и координации, г) прогнозирования и экстраполяции (4)"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "способ изучения структуры однородных элементов совокупности",
+				        "прием обобщения индивидуальных значений показателя ",
+				        "метод анализа факторов",
+				        "изменение значений признака"
+				    ],
+				    "question": "Исчисление средних величин - это ...\t?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "а",
+				        "б",
+				        "а, б",
+				        "нет правильного ответа"
+				    ],
+				    "question": "Ряд динамики может состоять: а) из абсолютных суммарных величин; б) из относительных и средних величин\t?"
 				},
 				{
 				    "correct": 1,
@@ -157,154 +157,154 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
+		            "question" : "К наиболее простым методам прогнозирования относят:",
 		            "content" : [
-		                "Borrowed time",
-		                "Overtime",
-		                "Standard time",
-		                "Party time"
+		                "индексный метод",
+		                "метод скользящей средней",
+		                "метод на основе среднего абсолютного прироста",
+		                "метод оценки возможностей"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "Which part of the body are you most likely to \"stub\"?",
+		            "question" : "Статистический индекс - это:\t?",
 		            "content" : [
-		                "Toe",
-		                "Knee",
-		                "Elbow",
-		                "Brain"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "Which country is largest by area?",
-		            "content" : [
-		                "UK",
-		                "USA",
-		                "Russia",
-		                "China"
+		                "критерий сравнения относительных величин",
+		                "сравнительная характеристика двух абсолютных величин",
+		                "относительная величина сравнения двух показателей",
+		                "динамика показателей"
 		            ],
 		            "correct" : 2
 		        },
 		        {
-		            "question" : "What does the \"F\" stand for in FBI?",
+		            "question" : "Термин регрессия в статистике понимают как: а) функцию связи, зависимости; б) направление развития явления вспять; в) функцию анализа случайных событий во времени; г) уравнение линии связи ?",
 		            "content" : [
-		                "Foreign",
-		                "Federal",
-		                "Flappy",
-		                "Face"
+		                "а, б",
+		                "а, г",
+		                "г, в",
+		                "в, б"
 		            ],
 		            "correct" : 1
 		        },
 		        {
-		            "question" : "The US declared war on which country after the bombing of Pearl Harbor?",
+		            "question" : "Дайте классификацию связей по аналитическому выражению:\t?",
 		            "content" : [
-		                "Japan",
-		                "Russia",
-		                "Germany",
-		                "China"
+		                "обратная",
+		                "сильная",
+		                "прямая",
+		                "линейная"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Основными задачами статистики на современном этапе являются: а) исследование преобразований экономических и социальных процессов в обществе; б) анализ и прогнозирование тенденций развития экономики; в) регламентация и планирование хозяйственных процессов",
+		            "content" : [
+		                "б, в",
+		                "а, в",
+		                "а, б",
+		                "а"
 		            ],
 		            "correct" : 0
 		        },
 				{
 				    "correct": 0,
 				    "content": [
-				        "Letter of Credit (L/C)",
-				        "laissezfaire",
-				        "inflation",
-				        "None of the above"
+				        "централизованная, децентрализованная",
+				        "централизованная,системная",
+				        "простая,системная",
+				        "системная,децентрализованная"
 				    ],
-				    "question": "A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as"
+				    "question": "Существуют два вида сводки:"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "территориальные",
+				        "всеобщие",
+				        "субиндексы",
+				        "общие"
+				    ],
+				    "question": "Как называются индексы, характеризующие соотношение уровней явлений в пространстве:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "элиминированная величина",
+				        "средняя величина",
+				        "индексированная величина",
+				        "соизмеритель"
+				    ],
+				    "question": "Как называется в теории индексов показатель, изменение которого характеризует индекс:"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "непрерывные",
+				        "дискретные",
+				        "интервальные",
+				        "моментные"
+				    ],
+				    "question": "К каким рядам динамики принадлежат показатели, полученные через определённые промежутки времени?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "размах вариации",
+				        "дисперсия и коэффициент вариации",
+				        "среднее квадратическое отклонение и коэффициент вариации",
+				        "среднее линейное отклонение"
+				    ],
+				    "question": "С помощью каких статистических характеристик определяют вариацию рядов динамики около средней:"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "самостоятельная общественная наука, изучающая количественную сторону массовых социальных явлений в неразрывной связи с их качественным содержанием ",
+				        "метод разработки принципов сбора и обработки данных",
+				        "изучение взаимосвязей и закономерностей развития явлений",
+				        "своеобразный метод познания"
+				    ],
+				    "question": "Что собой представляет статистическая наука?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "автокорреляция",
+				        "регрессия",
+				        "тренд",
+				        "автоковариация"
+				    ],
+				    "question": "Какая количественная характеристика ряда динамики определяет тенденцию развития явления:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "общие, тотальные",
+				        "индивидуальные, общие",
+				        "групповые, индивидуальные",
+				        "индивидуальные, агрегатные"
+				    ],
+				    "question": "Как классифицируются индексы по степени охвата элементов явлений:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "взаимосвязи между массовыми общественными явлениями и процессами",
+				        "массовые общественные явления (опираясь на положения теории статистики) в сфере материального производства",
+				        "общие правила и методы исследования массовых явлений ",
+				        "регистрирует массовые общественные явления"
+				    ],
+				    "question": "Что изучает экономическая статистика:"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "Visible light",
-				        "Infrared radiation",
-				        "X-rays and gamma rays",
-				        "Ultraviolet radiation"
+				        "средний индекс",
+				        "индекс среднего уровня",
+				        "индекс с постоянными весами",
+				        "индекс структуры"
 				    ],
-				    "question": "The ozone layer restricts"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya",
-				        "the discoverer of Puerto Rico and Jamaica",
-				        "the first Buddhist pilgrim of India to visit China",
-				        "None of the above"
-				    ],
-				    "question": "Fa-Hien was"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Harvard",
-				        "University of Washington",
-				        "Yale",
-				        "Oxford"
-				    ],
-				    "question": "What was the first university in the United States"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "The amount of energy it takes to move an electron through a potential difference of 1 volt",
-				        "The number of volts it takes to move an electon a meter",
-				        "The number of electrons it takes to kill a human being",
-				        "The flux of current through a surface parallel to a capacitor"
-				    ],
-				    "question": "An electron volt is"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "14th November",
-				        "11th December",
-				        "15th October",
-				        "1st July"
-				    ],
-				    "question": "When is the World's Diabetes Day?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Kelvin",
-				        "Celsius",
-				        "Centigrade",
-				        "Fahrenheit"
-				    ],
-				    "question": "What is the S.I. unit of temperature?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "July 21, 1969",
-				        "July 21, 1970",
-				        "July 21, 1963",
-				        "July 21, 1972"
-				    ],
-				    "question": "When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the density of milk increases",
-				        "the density of milk decreases",
-				        "the density of milk remains unchanged",
-				        "it becomes more viscous"
-				    ],
-				    "question": "When cream is separated from milk"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1999",
-				        "1989",
-				        "1979",
-				        "1969"
-				    ],
-				    "question": "When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?"
+				    "question": "Какую статистическую характеристику получают отношением индекса переменного состава к индексу фиксированного состава:"
 				}
 		    ]
 		},
