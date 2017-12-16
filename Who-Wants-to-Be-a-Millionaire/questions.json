@@ -1,774 +1,312 @@
 {
-	"games" : [
-		{
-		    "questions" : [
-		        {
-		            "question" : "статистика это...\t?",
-		            "content" : [
-		                "наука",
-		                "определение",
-		                "измерение",
-		                "понятие"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "статистическое наблюдение это...\t?",
-		            "content" : [
-		                "анализ",
-		                "контроль",
-		                "этап исследования",
-		                "оперативный учет"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Месячный уровень инфляции — 1% за месяц. При сохранившейся тенденции годовой уровень составит … % годовых\t?",
-		            "content" : [
-		                "менее 1",
-		                "более 12",
-		                "12",
-		                "1"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "Термин «статистика» происходит от слова:\t",
-		            "content" : [
-		                "статика",
-		                "статный",
-		                "статус",
-		                "стоимость"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Статистика как наука изучает:\t",
-		            "content" : [
-		                "единичные явления",
-		                "массовые явления",
-		                "периодические события ",
-		                "сбор данных"
-		            ],
-		            "correct" : 1
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "анкета",
-				        "непосредственное",
-				        "сплошное",
-				        "текущее"
-				    ],
-				    "question": "Назовите виды статистического наблюдения по степени охвата единиц совокупности:\t"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "систематизация и подсчет итогов зарегистрированных фактов и данных",
-				        "форма представления и развития изучаемых явлений",
-				        "анализ и прогноз зарегистрированных данных",
-				        "способ получения информации"
-				    ],
-				    "question": "Статистическая сводка - это:\t"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "простые и комбинационные",
-				        "линейные",
-				        "нелинейные",
-				        "производственные"
-				    ],
-				    "question": "Какие виды статистических таблиц встречаются:\t"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "размер изучаемого явления в натуральных единицах измерения",
-				        "количественная характеристика свойств в единстве с их качественной определенностью",
-				        "результат измерения свойств изучаемого объекта",
-				        "регистрация данных"
-				    ],
-				    "question": "Статистический показатель - это...\t"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "а, д",
-				        "б, в",
-				        "в, г",
-				        "а, б"
-				    ],
-				    "question": "По способу выражения абсолютные статистические показатели подразделяются на: а) суммарные; б) индивидуальные; в) относительные; г) средние; д) структурные"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "в коэффициентах",
-				        "в натуральных",
-				        "в трудовых",
-				        "в стоимостных"
-				    ],
-				    "question": "В каких единицах выражаются абсолютные статистические показатели\t?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "а, б, г",
-				        "б, в, г",
-				        "в, г, а",
-				        "а, б, в"
-				    ],
-				    "question": "Относительные показатели по своему познавательному значению подразделяются на показатели: а) выполнения и сравнения, б) структуры и динамики, в) интенсивности и координации, г) прогнозирования и экстраполяции (4)"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "способ изучения структуры однородных элементов совокупности",
-				        "прием обобщения индивидуальных значений показателя ",
-				        "метод анализа факторов",
-				        "изменение значений признака"
-				    ],
-				    "question": "Исчисление средних величин - это ...\t?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "а",
-				        "б",
-				        "а, б",
-				        "нет правильного ответа"
-				    ],
-				    "question": "Ряд динамики может состоять: а) из абсолютных суммарных величин; б) из относительных и средних величин\t?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "4 km",
-				        "25 km",
-				        "500 m to 9 km",
-				        "150 km"
-				    ],
-				    "question": "What is the range of missile 'Akash'?"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "К наиболее простым методам прогнозирования относят:",
-		            "content" : [
-		                "индексный метод",
-		                "метод скользящей средней",
-		                "метод на основе среднего абсолютного прироста",
-		                "метод оценки возможностей"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Статистический индекс - это:\t?",
-		            "content" : [
-		                "критерий сравнения относительных величин",
-		                "сравнительная характеристика двух абсолютных величин",
-		                "относительная величина сравнения двух показателей",
-		                "динамика показателей"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "Термин регрессия в статистике понимают как: а) функцию связи, зависимости; б) направление развития явления вспять; в) функцию анализа случайных событий во времени; г) уравнение линии связи ?",
-		            "content" : [
-		                "а, б",
-		                "а, г",
-		                "г, в",
-		                "в, б"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "Дайте классификацию связей по аналитическому выражению:\t?",
-		            "content" : [
-		                "обратная",
-		                "сильная",
-		                "прямая",
-		                "линейная"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "Основными задачами статистики на современном этапе являются: а) исследование преобразований экономических и социальных процессов в обществе; б) анализ и прогнозирование тенденций развития экономики; в) регламентация и планирование хозяйственных процессов",
-		            "content" : [
-		                "б, в",
-		                "а, в",
-		                "а, б",
-		                "а"
-		            ],
-		            "correct" : 0
-		        },
-				{
-				    "correct": 0,
-				    "content": [
-				        "централизованная, децентрализованная",
-				        "централизованная,системная",
-				        "простая,системная",
-				        "системная,децентрализованная"
-				    ],
-				    "question": "Существуют два вида сводки:"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "территориальные",
-				        "всеобщие",
-				        "субиндексы",
-				        "общие"
-				    ],
-				    "question": "Как называются индексы, характеризующие соотношение уровней явлений в пространстве:"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "элиминированная величина",
-				        "средняя величина",
-				        "индексированная величина",
-				        "соизмеритель"
-				    ],
-				    "question": "Как называется в теории индексов показатель, изменение которого характеризует индекс:"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "непрерывные",
-				        "дискретные",
-				        "интервальные",
-				        "моментные"
-				    ],
-				    "question": "К каким рядам динамики принадлежат показатели, полученные через определённые промежутки времени?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "размах вариации",
-				        "дисперсия и коэффициент вариации",
-				        "среднее квадратическое отклонение и коэффициент вариации",
-				        "среднее линейное отклонение"
-				    ],
-				    "question": "С помощью каких статистических характеристик определяют вариацию рядов динамики около средней:"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "самостоятельная общественная наука, изучающая количественную сторону массовых социальных явлений в неразрывной связи с их качественным содержанием ",
-				        "метод разработки принципов сбора и обработки данных",
-				        "изучение взаимосвязей и закономерностей развития явлений",
-				        "своеобразный метод познания"
-				    ],
-				    "question": "Что собой представляет статистическая наука?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "автокорреляция",
-				        "регрессия",
-				        "тренд",
-				        "автоковариация"
-				    ],
-				    "question": "Какая количественная характеристика ряда динамики определяет тенденцию развития явления:"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "общие, тотальные",
-				        "индивидуальные, общие",
-				        "групповые, индивидуальные",
-				        "индивидуальные, агрегатные"
-				    ],
-				    "question": "Как классифицируются индексы по степени охвата элементов явлений:"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "взаимосвязи между массовыми общественными явлениями и процессами",
-				        "массовые общественные явления (опираясь на положения теории статистики) в сфере материального производства",
-				        "общие правила и методы исследования массовых явлений ",
-				        "регистрирует массовые общественные явления"
-				    ],
-				    "question": "Что изучает экономическая статистика:"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "средний индекс",
-				        "индекс среднего уровня",
-				        "индекс с постоянными весами",
-				        "индекс структуры"
-				    ],
-				    "question": "Какую статистическую характеристику получают отношением индекса переменного состава к индексу фиксированного состава:"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "An albino gorilla usually has what color fur?",
-		            "content" : [
-		                "Brown",
-		                "Black",
-		                "White",
-		                "Golden"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?",
-		            "content" : [
-		                "Fingertips",
-		                "Ear",
-		                "Nose",
-		                "Mouth"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "What is commonly known as the \"Emerald City\" in the United States?",
-		            "content" : [
-		                "Palos Verdes, CA",
-		                "Seattle, WA",
-		                "New York, NY",
-		                "Dallas, TX"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "What is the national emblem of Canada?",
-		            "content" : [
-		                "Maple Leaf",
-		                "Brown Bear",
-		                "Maple Syrup",
-		                "Waffle"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "What is the name of the largest freshwater lake in the world?",
-		            "content" : [
-		                "Lake Union",
-		                "Lake Superior",
-		                "Lake Largest",
-		                "Lake Goodwin"
-		            ],
-		            "correct" : 0
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "Birds",
-				        "Cell formation",
-				        "Relation between organisms and their environment",
-				        "Tissues"
-				    ],
-				    "question": "Ecology deals with"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Earth's gravitational pull",
-				        "Moon's gravitational pull",
-				        "Centripetal force due to the earth's rotation",
-				        "Pressure of the atmosphere"
-				    ],
-				    "question": "The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "was a great Italian painter, sculptor and architect",
-				        "got universal fame form his masterpiece \"Mona lisa\"",
-				        "drew models of organs such as the heart, lungs and womb",
-				        "All of the above"
-				    ],
-				    "question": "Leonardo da Vinci"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "2000",
-				        "2001",
-				        "2002",
-				        "2003"
-				    ],
-				    "question": "Hamid Karzai was chosen president of Afghanistan in"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "New York, USA",
-				        "Haque (Netherlands)",
-				        "Geneva",
-				        "Paris"
-				    ],
-				    "question": "The headquarters of UN are situated at"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "friction between the earth and the bus",
-				        "friction between the passengers and the earth",
-				        "inertia of the passengers",
-				        "inertia of the bus"
-				    ],
-				    "question": "When a moving bus stops suddenly, the passenger are pushed forward because of the"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "1908 at London",
-				        "1980 at Moscow",
-				        "1936 at Berlin",
-				        "1924 at Paris"
-				    ],
-				    "question": "When and where was hockey introduced for women in Olympics?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "increase the alkalinity of the soil",
-				        "increase the acidity of the soil",
-				        "restore nitrates to the soil",
-				        "make the soil more porous"
-				    ],
-				    "question": "Lime is sometimes applied to soil in order to"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "discovered Greenland",
-				        "travelled through China, India and other parts of Asia",
-				        "travelled round the cape of Good Hope",
-				        "discovered Canada"
-				    ],
-				    "question": "Marco Polo"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Guruji",
-				        "Man of Peace",
-				        "Punjab Kesari",
-				        "Mahamana"
-				    ],
-				    "question": "Lal Bahadur Shastri is also known as"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "Which of the following consumer goods is the Gerber Products Co. best known for?",
-		            "content" : [
-		                "Potato chips",
-		                "Fine wines",
-		                "Chewing gum",
-		                "Baby Food"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "In which of these household appliances would you find a lint screen?",
-		            "content" : [
-		                "Dishwasher",
-		                "Microwave oven",
-		                "Clothes dryer",
-		                "Trash compactor"
-		            ],
-		            "correct" : 2
-		        },
-		        {
-		            "question" : "What are the three primary colors?",
-		            "content" : [
-		                "Red, green, blue",
-		                "Magenta, pink, cyan",
-		                "Yellow, salmon, brown",
-		                "White, grey, black"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "In aviation, what does UFO stand for?",
-		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "In aviation, what does UFO stand for?",
-		            "content" : [
-		                "Unified Flying Object",
-		                "Unitary Flinging Obsession",
-		                "United Flag Opposition",
-		                "Unidentified Flying Object"
-		            ],
-		            "correct" : 3
-		        },
-				{
-				    "correct": 0,
-				    "content": [
-				        "low melting point",
-				        "high resistance",
-				        "high melting point",
-				        "low specific heat"
-				    ],
-				    "question": "For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "slowing down of economic activity over a limited period",
-				        "period during which unemployment may rise and demand and output may fall, leading to slump in trade",
-				        "period that results from accumulation of unsold goods, owing to fall in demand",
-				        "All of the above"
-				    ],
-				    "question": "Recession is"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "Nagaland",
-				        "Arunachal Pradesh",
-				        "Assam",
-				        "All of the above"
-				    ],
-				    "question": "Guwahati High Court is the judicature of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Orissa",
-				        "Tamil nadu",
-				        "Andhra Pradesh",
-				        "Kerala"
-				    ],
-				    "question": "Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "the amount of moisture it can hold decreases",
-				        "its absolute humidity decreases",
-				        "its relative humidity remains constant",
-				        "its absolute humidity increases"
-				    ],
-				    "question": "When a given amount of air is cooled"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "1789 AD",
-				        "1798 AD",
-				        "1792 AD",
-				        "1729 AD"
-				    ],
-				    "question": "When did France became Republic?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Group A only",
-				        "Group B only",
-				        "Group A and O",
-				        "Group AB only"
-				    ],
-				    "question": "Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "coins",
-				        "numbers",
-				        "stamps",
-				        "space"
-				    ],
-				    "question": "Numismatics is the study of"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a classed unique society",
-				        "a united society",
-				        "a classed society",
-				        "None of the above"
-				    ],
-				    "question": "Karl Marx's ideology advocated"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "Maharashtra",
-				        "Rajasthan",
-				        "Madhya Pradesh",
-				        "Himachal Pradesh"
-				    ],
-				    "question": "Mahabaleshwar is located in"
-				}
-		    ]
-		},
-		{
-		    "questions" : [
-		        {
-		            "question" : "What kind of animal traditionally lives in a sty?",
-		            "content" : [
-		                "Cow",
-		                "Pig",
-		                "Fox",
-		                "Teenager"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?",
-		            "content" : [
-		                "Recycle",
-		                "Rewrap",
-		                "Repossess",
-		                "Retire"
-		            ],
-		            "correct" : 0
-		        },
-		        {
-		            "question" : "What is the second most common gas in the air?",
-		            "content" : [
-		                "Nitrogen",
-		                "Oxygen",
-		                "Water",
-		                "Helium"
-		            ],
-		            "correct" : 1
-		        },
-		        {
-		            "question" : "Which month has only 28 days (unless it's a leap year)?",
-		            "content" : [
-		                "March",
-		                "September",
-		                "June",
-		                "Feburary"
-		            ],
-		            "correct" : 3
-		        },
-				{
-				    "correct": 1,
-				    "content": [
-				        "give",
-				        "prove",
-				        "both",
-				        "None of the above"
-				    ],
-				    "question": "Pythagoras was first to ____ the universal validity of geometrical theorem."
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "George Washington",
-				        "Bill Clinton",
-				        "George Bush",
-				        "None of the above"
-				    ],
-				    "question": "The American General who led the revolt against the British and declared American independence was"
-				},
-				{
-				    "correct": 0,
-				    "content": [
-				        "1986 at Athens",
-				        "1988 at Seoul",
-				        "1924 at St. Louis",
-				        "1908 at London"
-				    ],
-				    "question": "When and where was weightlifting introduced in Olympics?"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Junagarh, Gujarat",
-				        "Diphu, Assam",
-				        "Kohima, Nagaland",
-				        "Gangtok, Sikkim"
-				    ],
-				    "question": "Garampani sanctuary is located at"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "states that no one was to be imprisoned without a writ or warrant stating the charge against him",
-				        "provided facilities to a prisoner to obtain either speedy trial or release in bail",
-				        "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders",
-				        "All of the above"
-				    ],
-				    "question": "The Habeas Corpus Act of 1679"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "1960",
-				        "1961",
-				        "1962",
-				        "1963"
-				    ],
-				    "question": "When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?"
-				},
-		        {
-		            "question" : "What are the dimensions of A4 paper?",
-		            "content" : [
-		                "8.3\" x 11.7\"",
-		                "8.5\" x 11\"",
-		                "30cm x 50cm",
-		                "8.5\" x 14\""
-		            ],
-		            "correct" : 0
-		        },
-				{
-				    "correct": 2,
-				    "content": [
-				        "energy",
-				        "speed",
-				        "distance",
-				        "intensity"
-				    ],
-				    "question": "Light Year is related to"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "a type of asset that is in cash in the current account of the commercial bank",
-				        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
-				        "either of these",
-				        "None of the above"
-				    ],
-				    "question": "A liquid asset is"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "largest airport",
-				        "highest airport",
-				        "lowest airport",
-				        "busiest airport"
-				    ],
-				    "question": "Lhasa airport at Tibet is the World's"
-				},
-				{
-				    "correct": 2,
-				    "content" : [
-				        "Ethiopia",
-				        "Nigeria",
-				        "Zambia",
-				        "Chad"
-				    ],
-				    "question": "Which of these African countries is situated south of the equator?"
-				}
-		    ]
-		}
-	]
+  "games": [
+    {
+      "questions": [
+        {
+          "question": "статистика это...\t?",
+          "content": [
+            "наука",
+            "определение",
+            "измерение",
+            "понятие"
+          ],
+          "correct": 0
+        },
+        {
+          "question": "статистическое наблюдение это...\t?",
+          "content": [
+            "анализ",
+            "контроль",
+            "этап исследования",
+            "оперативный учет"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "Месячный уровень инфляции — 1% за месяц. При сохранившейся тенденции годовой уровень составит … % годовых\t?",
+          "content": [
+            "менее 1",
+            "более 12",
+            "12",
+            "1"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "Термин «статистика» происходит от слова:\t",
+          "content": [
+            "статика",
+            "статный",
+            "статус",
+            "стоимость"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "Статистика как наука изучает:\t",
+          "content": [
+            "единичные явления",
+            "массовые явления",
+            "периодические события ",
+            "сбор данных"
+          ],
+          "correct": 1
+        },
+        {
+          "correct": 2,
+          "content": [
+            "анкета",
+            "непосредственное",
+            "сплошное",
+            "текущее"
+          ],
+          "question": "Назовите виды статистического наблюдения по степени охвата единиц совокупности:\t"
+        },
+        {
+          "correct": 0,
+          "content": [
+            "систематизация и подсчет итогов зарегистрированных фактов и данных",
+            "форма представления и развития изучаемых явлений",
+            "анализ и прогноз зарегистрированных данных",
+            "способ получения информации"
+          ],
+          "question": "Статистическая сводка - это:\t"
+        },
+        {
+          "correct": 0,
+          "content": [
+            "простые и комбинационные",
+            "линейные",
+            "нелинейные",
+            "производственные"
+          ],
+          "question": "Какие виды статистических таблиц встречаются:\t"
+        },
+        {
+          "correct": 3,
+          "content": [
+            "размер изучаемого явления в натуральных единицах измерения",
+            "количественная характеристика свойств в единстве с их качественной определенностью",
+            "результат измерения свойств изучаемого объекта",
+            "регистрация данных"
+          ],
+          "question": "Статистический показатель - это...\t"
+        },
+        {
+          "correct": 3,
+          "content": [
+            "а, д",
+            "б, в",
+            "в, г",
+            "а, б"
+          ],
+          "question": "По способу выражения абсолютные статистические показатели подразделяются на: а) суммарные; б) индивидуальные; в) относительные; г) средние; д) структурные"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "в коэффициентах",
+            "в натуральных",
+            "в трудовых",
+            "в стоимостных"
+          ],
+          "question": "В каких единицах выражаются абсолютные статистические показатели\t?"
+        },
+        {
+          "correct": 3,
+          "content": [
+            "а, б, г",
+            "б, в, г",
+            "в, г, а",
+            "а, б, в"
+          ],
+          "question": "Относительные показатели по своему познавательному значению подразделяются на показатели: а) выполнения и сравнения, б) структуры и динамики, в) интенсивности и координации, г) прогнозирования и экстраполяции (4)"
+        },
+        {
+          "correct": 0,
+          "content": [
+            "способ изучения структуры однородных элементов совокупности",
+            "прием обобщения индивидуальных значений показателя ",
+            "метод анализа факторов",
+            "изменение значений признака"
+          ],
+          "question": "Исчисление средних величин - это ...\t?"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "а",
+            "б",
+            "а, б",
+            "нет правильного ответа"
+          ],
+          "question": "Ряд динамики может состоять: а) из абсолютных суммарных величин; б) из относительных и средних величин\t?"
+        },
+        {
+          "correct": 1,
+          "content": [
+            "4 km",
+            "25 km",
+            "500 m to 9 km",
+            "150 km"
+          ],
+          "question": "What is the range of missile 'Akash'?"
+        }
+      ]
+    },
+    {
+      "questions": [
+        {
+          "question": "К наиболее простым методам прогнозирования относят:",
+          "content": [
+            "индексный метод",
+            "метод скользящей средней",
+            "метод на основе среднего абсолютного прироста",
+            "метод оценки возможностей"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "Статистический индекс - это:\t?",
+          "content": [
+            "критерий сравнения относительных величин",
+            "сравнительная характеристика двух абсолютных величин",
+            "относительная величина сравнения двух показателей",
+            "динамика показателей"
+          ],
+          "correct": 2
+        },
+        {
+          "question": "Термин регрессия в статистике понимают как: а) функцию связи, зависимости; б) направление развития явления вспять; в) функцию анализа случайных событий во времени; г) уравнение линии связи ?",
+          "content": [
+            "а, б",
+            "а, г",
+            "г, в",
+            "в, б"
+          ],
+          "correct": 1
+        },
+        {
+          "question": "Дайте классификацию связей по аналитическому выражению:\t?",
+          "content": [
+            "обратная",
+            "сильная",
+            "прямая",
+            "линейная"
+          ],
+          "correct": 3
+        },
+        {
+          "question": "Основными задачами статистики на современном этапе являются: а) исследование преобразований экономических и социальных процессов в обществе; б) анализ и прогнозирование тенденций развития экономики; в) регламентация и планирование хозяйственных процессов",
+          "content": [
+            "б, в",
+            "а, в",
+            "а, б",
+            "а"
+          ],
+          "correct": 0
+        },
+        {
+          "correct": 0,
+          "content": [
+            "централизованная, децентрализованная",
+            "централизованная,системная",
+            "простая,системная",
+            "системная,децентрализованная"
+          ],
+          "question": "Существуют два вида сводки:"
+        },
+        {
+          "correct": 0,
+          "content": [
+            "территориальные",
+            "всеобщие",
+            "субиндексы",
+            "общие"
+          ],
+          "question": "Как называются индексы, характеризующие соотношение уровней явлений в пространстве:"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "элиминированная величина",
+            "средняя величина",
+            "индексированная величина",
+            "соизмеритель"
+          ],
+          "question": "Как называется в теории индексов показатель, изменение которого характеризует индекс:"
+        },
+        {
+          "correct": 1,
+          "content": [
+            "непрерывные",
+            "дискретные",
+            "интервальные",
+            "моментные"
+          ],
+          "question": "К каким рядам динамики принадлежат показатели, полученные через определённые промежутки времени?"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "размах вариации",
+            "дисперсия и коэффициент вариации",
+            "среднее квадратическое отклонение и коэффициент вариации",
+            "среднее линейное отклонение"
+          ],
+          "question": "С помощью каких статистических характеристик определяют вариацию рядов динамики около средней:"
+        },
+        {
+          "correct": 0,
+          "content": [
+            "самостоятельная общественная наука, изучающая количественную сторону массовых социальных явлений в неразрывной связи с их качественным содержанием ",
+            "метод разработки принципов сбора и обработки данных",
+            "изучение взаимосвязей и закономерностей развития явлений",
+            "своеобразный метод познания"
+          ],
+          "question": "Что собой представляет статистическая наука?"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "автокорреляция",
+            "регрессия",
+            "тренд",
+            "автоковариация"
+          ],
+          "question": "Какая количественная характеристика ряда динамики определяет тенденцию развития явления:"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "общие, тотальные",
+            "индивидуальные, общие",
+            "групповые, индивидуальные",
+            "индивидуальные, агрегатные"
+          ],
+          "question": "Как классифицируются индексы по степени охвата элементов явлений:"
+        },
+        {
+          "correct": 2,
+          "content": [
+            "взаимосвязи между массовыми общественными явлениями и процессами",
+            "массовые общественные явления (опираясь на положения теории статистики) в сфере материального производства",
+            "общие правила и методы исследования массовых явлений ",
+            "регистрирует массовые общественные явления"
+          ],
+          "question": "Что изучает экономическая статистика:"
+        },
+        {
+          "correct": 3,
+          "content": [
+            "средний индекс",
+            "индекс среднего уровня",
+            "индекс с постоянными весами",
+            "индекс структуры"
+          ],
+          "question": "Какую статистическую характеристику получают отношением индекса переменного состава к индексу фиксированного состава:"
+        }
+      ]
+    }
+  ]
 }
