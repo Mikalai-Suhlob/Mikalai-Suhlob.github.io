@@ -1,0 +1,202 @@
+$cell: 32px;
+
+
+html, body {
+	margin: 0;
+	background-color: #000;
+	font: 16px/1.2 Arial, sans-serif;
+}
+
+.game {
+	width: 1100px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.map {
+	background-color: #000;
+	width: $cell*26;
+	height: $cell*26;
+	overflow: hidden;
+	position: relative;
+	float: left;
+	border: 5px solid #fff;
+}
+
+.info {
+	background-color: #000;
+	color: #fff;
+	float: left;
+	border: 5px solid #fff;
+	border-left: medium none;
+	width: 240px;
+	height: $cell*26;
+	font-size: 14px;
+
+	&__padding {
+		box-sizing: border-box;
+		padding: 20px;
+		height: 100%;
+		position: relative;
+	}
+
+	&__row {
+		margin-bottom: 20px;
+	}
+
+	&__value {
+		font-size: 40px;
+	}
+
+	&__controls {
+		background: url("../i/controls.png") no-repeat 50% 0;
+		width: 100%;
+		height: 150px;
+		position: absolute;
+		left: 0;
+		bottom: 20px;
+	}
+}
+
+.btn-mute {
+	background: url("../i/btn-mute.png") no-repeat 0 0;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	cursor: pointer;
+
+	&.disable {
+		background-position: 0 -50px;
+	}
+}
+
+
+.block {
+	background: repeat 0 0;
+	background-size: cover;
+	width: $cell;
+	height: $cell;
+	float: left;
+	position: relative;
+
+	&_brick {
+		background-color: #9c4a00;
+		background-image: url("../i/blocks/block-brick.svg");
+	}
+
+	&_block {
+		background-color: white;
+		background-image: url("../i/blocks/block-block.svg");
+	}
+
+	&_grass {
+		background-image: url("../i/blocks/block-grass.svg");
+		z-index: 2;
+	}
+
+	&_water {
+		background-color: blue;
+		background-image: url("../i/blocks/block-water.svg");
+	}
+}
+
+.base {
+	background: url("../i/blocks/block-base.png") no-repeat 0 0;
+	position: absolute;
+	width: $cell*2;
+	height: $cell*2;
+	z-index: 10;
+}
+
+.tank {
+	background-image: url("../i/tanks/tank-gray-1.svg");
+	background: no-repeat 0 0;
+	background-size: cover;
+	position: absolute;
+	width: $cell*2;
+	height: $cell*2;
+	z-index: 1;
+	transition: left 400ms linear 0s, top 400ms linear 0s;
+	font-size: 20px;
+	color: red;
+
+	&_player {
+		@for $i from 1 through 4 {
+			&.tank_grade-#{$i} {
+				background-image: url("../i/tanks/tank-yellow-#{$i}.svg");
+			}
+		}
+	}
+
+	&_enemy {
+		@for $i from 1 through 4 {
+			&.tank_grade-#{$i} {
+				background-image: url("../i/tanks/tank-gray-#{$i}.svg");
+			}
+		}
+	}
+
+	&_enemy-red {
+		@for $i from 1 through 4 {
+			&.tank_grade-#{$i} {
+				background-image: url("../i/tanks/tank-red-#{$i}.svg");
+			}
+		}
+	}
+}
+
+.bang {
+	background: url("../i/bang.png") no-repeat 0 0;
+	background-size: cover;
+	width: $cell;
+	height: $cell;
+	position: absolute;
+	z-index: 10;
+	opacity: 1;
+}
+
+.tank_down {
+	transform: rotate(180deg);
+}
+
+.tank_right {
+	transform: rotate(90deg);
+}
+
+.tank_left {
+	transform: rotate(270deg);
+}
+
+.shot {
+	background-color: #bcbcbc;
+	width: 8px;
+	height: 8px;
+	border-radius: 1px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: -8px 0 0 26px;
+}
+
+.shot_down {
+	margin: 60px 0 0 26px;
+}
+
+.shot_left {
+	margin: 26px 0 0 -8px;
+}
+
+.shot_right {
+	margin: 26px 0 0 60px;
+}
+
+.bonus {
+	box-sizing: border-box;
+	background: url("../i/bonus-star.png") no-repeat 0 0;
+	background-size: cover;
+	width: $cell*2;
+	height: $cell*2;
+	position: absolute;
+}
